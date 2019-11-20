@@ -1,7 +1,4 @@
-﻿# Remote jekll theme
-remote_theme : MaengMaeng/taken
-
-# Site settings
+﻿# Site settings
 title: 맹맹
 email: maybe8189@naver.com
 baseurl: "" # the subpath of your site, e.g. /blog
