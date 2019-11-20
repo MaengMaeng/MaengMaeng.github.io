@@ -1,0 +1,23 @@
+﻿# Remote jekll theme
+remote_theme : MaengMaeng/taken
+
+# Site settings
+title: 맹맹
+email: maybe8189@naver.com
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://MaengMaeng.guthub.io" # the base hostname & protocol for your site
+
+# Sidebar settings
+description: One sentence introducing yourself or what you do
+
+# Social icons
+facebook: username
+linkedin: username
+github: username
+deviantart: username
+codepen: username
+
+footer: © Taken theme
+
+# Build settings
+markdown: kramdown
